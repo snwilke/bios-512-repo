@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/snwilke-bios-512-repo-zjyai9bk/",
+  "base_url": "/user/snwilke-bios-512-repo-auoae057/",
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 19,
@@ -7,7 +7,7 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
-  "token": "_Fik43sNQwmF4R-SwT9Lpw",
-  "url": "http://jupyter-snwilke-bios-512-repo-zjyai9bk:8888/user/snwilke-bios-512-repo-zjyai9bk/",
+  "token": "CpZ65PZ3S5yVEMEbqFwzMA",
+  "url": "http://jupyter-snwilke-bios-512-repo-auoae057:8888/user/snwilke-bios-512-repo-auoae057/",
   "version": "2.15.0"
 }
