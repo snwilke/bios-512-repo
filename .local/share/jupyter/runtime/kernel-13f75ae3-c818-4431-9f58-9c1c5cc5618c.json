@@ -1,0 +1,13 @@
+{
+  "shell_port": 58121,
+  "iopub_port": 52535,
+  "stdin_port": 33827,
+  "control_port": 52441,
+  "hb_port": 39561,
+  "ip": "127.0.0.1",
+  "key": "f86caeae-6727f1733fc2db670874385a",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "ir",
+  "jupyter_session": "/home/jovyan/BIOS512_HW4.ipynb"
+}
