@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/snwilke-bios-512-repo-mujky1e8/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 19,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "oTHMLLQdS6Ouy6jrFrEuxQ",
+  "url": "http://jupyter-snwilke-bios-512-repo-mujky1e8:8888/user/snwilke-bios-512-repo-mujky1e8/",
+  "version": "2.15.0"
+}
