@@ -217,3 +217,7 @@ Launching jupyter-lab
 [W 2025-09-15 04:31:01.705 ServerApp] Notebook BIOS512_HW4.ipynb is not trusted
 [I 2025-09-15 04:33:03.160 ServerApp] Saving file at /BIOS512_HW4.ipynb
 [W 2025-09-15 04:33:03.161 ServerApp] Notebook BIOS512_HW4.ipynb is not trusted
+[I 2025-09-15 04:35:04.173 ServerApp] Saving file at /BIOS512_HW4.ipynb
+[W 2025-09-15 04:35:04.173 ServerApp] Notebook BIOS512_HW4.ipynb is not trusted
+[W 2025-09-15 04:35:57.081 ServerApp] Culling 'idle' kernel 'ir' (fab6a9e9-9d22-4f7a-a8f7-b7dc9dfb25d2) with 1 connections due to 657 seconds of inactivity.
+[I 2025-09-15 04:35:57.082 ServerApp] Kernel shutdown: fab6a9e9-9d22-4f7a-a8f7-b7dc9dfb25d2
