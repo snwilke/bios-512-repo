@@ -345,3 +345,15 @@ Launching jupyter-lab
 [I 2025-09-23 02:20:41.595 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
 [I 2025-09-23 02:22:42.303 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
 [I 2025-09-23 02:24:42.688 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:26:43.077 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:28:43.473 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:30:43.922 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[W 2025-09-23 02:31:42.057 ServerApp] Culling 'idle' kernel 'ir' (753d27d5-2756-417c-8e91-899fed3c7c8e) with 1 connections due to 635 seconds of inactivity.
+[I 2025-09-23 02:31:42.057 ServerApp] Kernel shutdown: 753d27d5-2756-417c-8e91-899fed3c7c8e
+[I 2025-09-23 02:32:44.392 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:34:45.593 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:36:45.984 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:37:32.657 ServerApp] Kernel started: 8c1e9070-f841-4e63-8982-1fdd7bcdbb9c
+[I 2025-09-23 02:37:33.608 ServerApp] Connecting to kernel 8c1e9070-f841-4e63-8982-1fdd7bcdbb9c.
+[I 2025-09-23 02:38:46.587 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
+[I 2025-09-23 02:40:47.093 ServerApp] Saving file at /BIOS512_hw5-1.ipynb
